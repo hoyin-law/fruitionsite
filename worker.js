@@ -1,7 +1,7 @@
 /* CONFIGURATION STARTS HERE */
 
 /* Step 1: enter your domain name like fruitionsite.com */
-const MY_DOMAIN = "fruitionsite.com";
+const MY_DOMAIN = "faustv.tk";
 
 /*
  * Step 2: enter your URL slug to page ID mapping
@@ -9,19 +9,16 @@ const MY_DOMAIN = "fruitionsite.com";
  * The value on the right is the Notion page ID
  */
 const SLUG_TO_PAGE = {
-  "": "771ef38657244c27b9389734a9cbff44",
-  thanks: "9d9864f5338b47b0a7f42e0f0e2bbf46",
-  showcase: "92053970e5084019ac096d2df7e7f440",
-  roadmap: "7d4b21bfb4534364972e8bf9f68c2c36"
+  "": "146baf6c46b944dc8a1652de43ec26c7"
 };
 
 /* Step 3: enter your page title and description for SEO purposes */
-const PAGE_TITLE = "Fruition";
+const PAGE_TITLE = "浮士德";
 const PAGE_DESCRIPTION =
-  "Free, Open Source Toolkit For Customizing Your Notion Page";
+  "科技求实，生活致善";
 
 /* Step 4: enter a Google Font name, you can choose from https://fonts.google.com */
-const GOOGLE_FONT = "Rubik";
+const GOOGLE_FONT = "Noto Sans Simplified Chinese";
 
 /* Step 5: enter any custom scripts you'd like */
 const CUSTOM_SCRIPT = ``;
